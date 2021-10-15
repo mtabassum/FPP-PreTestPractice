@@ -1,0 +1,12 @@
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.exe
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.deps.json
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.dll
+D:\MIU\FPP-PreTestPractice\PretestQ2\bin\Debug\netcoreapp3.1\PretestQ2.pdb
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.dll
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.pdb
+D:\MIU\FPP-PreTestPractice\PretestQ2\obj\Debug\netcoreapp3.1\PretestQ2.genruntimeconfig.cache

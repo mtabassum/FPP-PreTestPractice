@@ -1,0 +1,12 @@
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.exe
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.deps.json
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.dll
+D:\MIU\FPP-PreTestPractice\WaveArray\bin\Debug\netcoreapp3.1\WaveArray.pdb
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.dll
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.pdb
+D:\MIU\FPP-PreTestPractice\WaveArray\obj\Debug\netcoreapp3.1\WaveArray.genruntimeconfig.cache

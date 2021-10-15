@@ -1,0 +1,12 @@
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.exe
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.deps.json
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.dll
+D:\MIU\FPP-PreTestPractice\isSquare\bin\Debug\netcoreapp3.1\isSquare.pdb
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.dll
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.pdb
+D:\MIU\FPP-PreTestPractice\isSquare\obj\Debug\netcoreapp3.1\isSquare.genruntimeconfig.cache

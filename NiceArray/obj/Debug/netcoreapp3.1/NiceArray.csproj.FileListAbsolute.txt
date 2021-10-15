@@ -1,0 +1,12 @@
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.exe
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.deps.json
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.dll
+D:\MIU\FPP-PreTestPractice\NiceArray\bin\Debug\netcoreapp3.1\NiceArray.pdb
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.dll
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.pdb
+D:\MIU\FPP-PreTestPractice\NiceArray\obj\Debug\netcoreapp3.1\NiceArray.genruntimeconfig.cache

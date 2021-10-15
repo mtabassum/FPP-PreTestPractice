@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.exe
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.deps.json
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.dll
+D:\MIU\FPP-PreTestPractice\PrimeHappy\bin\Debug\netcoreapp3.1\PrimeHappy.pdb
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.dll
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.pdb
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.genruntimeconfig.cache
+D:\MIU\FPP-PreTestPractice\PrimeHappy\obj\Debug\netcoreapp3.1\PrimeHappy.csprojAssemblyReference.cache

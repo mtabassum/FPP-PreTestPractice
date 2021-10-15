@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.exe
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.deps.json
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.dll
+D:\MIU\FPP-PreTestPractice\BunkerArray\bin\Debug\netcoreapp3.1\BunkerArray.pdb
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.dll
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.pdb
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.genruntimeconfig.cache
+D:\MIU\FPP-PreTestPractice\BunkerArray\obj\Debug\netcoreapp3.1\BunkerArray.csprojAssemblyReference.cache

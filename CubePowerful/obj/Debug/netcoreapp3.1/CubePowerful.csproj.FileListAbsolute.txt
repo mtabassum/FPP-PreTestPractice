@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.exe
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.deps.json
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.dll
+D:\MIU\FPP-PreTestPractice\CubePowerful\bin\Debug\netcoreapp3.1\CubePowerful.pdb
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.dll
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.pdb
+D:\MIU\FPP-PreTestPractice\CubePowerful\obj\Debug\netcoreapp3.1\CubePowerful.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.exe
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.deps.json
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\bin\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.dll
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.pdb
+D:\MIU\FPP-PreTestPractice\LargestPrimeFactor\obj\Debug\netcoreapp3.1\LargestPrimeFactor.genruntimeconfig.cache

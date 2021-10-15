@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.exe
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.deps.json
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.dll
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\bin\Debug\netcoreapp3.1\NextPerfectSquare.pdb
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.dll
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.pdb
+D:\MIU\FPP-PreTestPractice\isPerfectSquare\obj\Debug\netcoreapp3.1\NextPerfectSquare.genruntimeconfig.cache

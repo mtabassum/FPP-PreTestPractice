@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.exe
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.deps.json
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.dll
+D:\MIU\FPP-PreTestPractice\BeanArray\bin\Debug\netcoreapp3.1\BeanArray.pdb
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.dll
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.pdb
+D:\MIU\FPP-PreTestPractice\BeanArray\obj\Debug\netcoreapp3.1\BeanArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.exe
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.deps.json
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.dll
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\bin\Debug\netcoreapp3.1\zeroPlentiful.pdb
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.dll
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.pdb
+D:\MIU\FPP-PreTestPractice\zeroPlentiful\obj\Debug\netcoreapp3.1\zeroPlentiful.genruntimeconfig.cache

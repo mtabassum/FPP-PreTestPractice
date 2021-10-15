@@ -1,0 +1,13 @@
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.exe
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.deps.json
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.runtimeconfig.json
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.runtimeconfig.dev.json
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.dll
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\bin\Debug\netcoreapp3.1\FPP-PreTestPractice.pdb
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.csprojAssemblyReference.cache
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.AssemblyInfoInputs.cache
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.AssemblyInfo.cs
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.csproj.CoreCompileInputs.cache
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.dll
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.pdb
+D:\MIU\FPP-PreTestPractice\FPP-PreTestPractice\obj\Debug\netcoreapp3.1\FPP-PreTestPractice.genruntimeconfig.cache
